@@ -1,0 +1,8 @@
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+transformers>=4.44,<5
+torch>=2.4,<3
+scipy>=1.14,<2
+av>=14,<17
+python-multipart>=0.0.20,<1
+accelerate>=1,<2
